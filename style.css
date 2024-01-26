@@ -1,0 +1,211 @@
+* {
+  margin: 1;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(160, 224, 224);
+}
+header {
+  display: flex;
+  width: 100%;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  box-sizing: border-box;
+  bottom: 0;
+}
+.titulo {
+  width: 100%;
+  padding: 1%;
+  margin: 15px;
+  text-align: center;
+}
+
+.cor {
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
+
+img {
+  display: inline-block;
+  width: 900px;
+  /* ou inline, dependendo do seu caso */
+}
+.kkk a {
+  padding: 10px 15px;
+  display: flex;
+}
+
+.historia {
+  margin: 15px;
+  text-align: center;
+  font-family: Verdana;
+  text-align: justify;
+}
+.historia2 {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.container2 {
+  text-align: center;
+  margin: 15px;
+  width: 0 20%;
+  padding: 2%;
+}
+img.img {
+  width: 40%;
+}
+
+.historia3 {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.espaco {
+  margin: 10px;
+}
+h2.titulo2 {
+  margin: 35px;
+  background-color: rgb(99, 89, 162);
+}
+.historia4 {
+  margin: 15px;
+  text-align: center;
+  font-family: verdana;
+  text-align: justify;
+}
+.ultimo {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.titulo3 {
+  margin: 25px;
+  text-align: center;
+  background-color: rgb(99, 89, 162);
+}
+.historia5 {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.historia6 {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.historia7 {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.historia8 {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.historia9 {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.historia10 {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.legenda1 {
+  text-align: center;
+}
+.container3 {
+  text-align: center;
+  margin: 15px;
+  width: 0 20%;
+  padding: 2%;
+}
+img.imgDalanistes {
+  width: 35%;
+}
+.legenda2 {
+  text-align: center;
+}
+.container4 {
+  text-align: center;
+  margin: 15px;
+  width: 0 20%;
+  padding: 2%;
+}
+img.imgRodhocetus {
+  width: 55%;
+}
+.legenda3 {
+  text-align: center;
+}
+.container5 {
+  text-align: center;
+  margin: 15px;
+  width: 0 20%;
+  padding: 2%;
+}
+img.imgTakracetus {
+  width: 55%;
+}
+.legenda4 {
+  text-align: center;
+}
+.container6 {
+  text-align: center;
+  margin: 15px;
+  width: 0 20%;
+  padding: 2%;
+}
+img.imgDorudon {
+  width: 55%;
+}
+.legenda5 {
+  text-align: center;
+}
+.container7 {
+  text-align: center;
+  margin: 15px;
+  width: 0 20%;
+  padding: 2%;
+}
+img.imgBasilosaurus {
+  width: 47%;
+}
+.historia11 {
+  text-align: center;
+  margin: 15px;
+  font-family: verdana;
+  text-align: justify;
+}
+.esp {
+  margin: 15px;
+}
+.legenda6 {
+  text-align: center;
+}
+.container8 {
+  text-align: center;
+  margin: 15px;
+  width: 0 20%;
+  padding: 2%;
+}
+img.imgBaleias_atuais {
+  width: 47%;
+}
+footer {
+  margin: 120px;
+}
